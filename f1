@@ -1,2 +1,17 @@
 hai this is hussain and oi i am practicing devops 
 hjkjkjk
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+
+
+trying to save another satash value index
+=======
+hai this is hussain and i am using cherrypick
+
+
+i am trying to practice git stash and cherrypick `
+>>>>>>> Stashed changes
+
+ in this file i am trying to practice cherrypick 
+>>>>>>> 40c8aa7... cherrypick practice
