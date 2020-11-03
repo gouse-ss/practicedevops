@@ -1,5 +1,10 @@
 hai this is hussain and oi i am practicing devops 
 hjkjkjk
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
 <<<<<<< Updated upstream
 
 
@@ -12,3 +17,7 @@ i am trying to practice git stash and cherrypick `
 >>>>>>> Stashed changes
 
  in this file i am trying to practice cherrypick 
+<<<<<<< HEAD
+=======
+>>>>>>> 40c8aa7... cherrypick practice
+>>>>>>> master
